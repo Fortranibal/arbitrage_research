@@ -22,3 +22,7 @@ Recommended versions:
 * Python 3.8
 
 For exact guide on how to install the ArbitrageLab package, please check [our documentation](https://hudson-and-thames-arbitragelab.readthedocs-hosted.com/en/latest/getting_started/installation.html).
+
+## Polymarket utilities
+
+See the [`Polymarket/`](Polymarket/) folder for a standalone script that streams live trades filtered to the **Nothing Ever Happens** emotional-category tag set (Gamma API + CLOB WebSocket or Data API polling).

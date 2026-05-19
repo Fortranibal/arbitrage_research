@@ -1,0 +1,2 @@
+# Optional but recommended for WebSocket mode (real-time CLOB executions).
+websockets>=12.0
